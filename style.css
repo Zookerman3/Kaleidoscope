@@ -5,6 +5,8 @@ body {
     padding-right: 20px; */
     font-family: Arial, Helvetica, sans-serif;
     background-color:   bisque;
+    background: linear-gradient(180deg, rgba(0, 0, 0, .1), rgba(0, 0, 0, 0.3)) no-repeat fixed, 
+                url(pedro.jpg) no-repeat center center fixed;
 }
 
 .header {
@@ -40,6 +42,7 @@ li {
     color: whitesmoke;
     line-height: 130%;
     padding: 0 10px 0 10px;
+    font-size: x-large;
 }
 
 .footer {
